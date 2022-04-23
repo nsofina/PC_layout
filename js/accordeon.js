@@ -1,6 +1,5 @@
 const contents = document.querySelectorAll('.program-line__content')
 
-//Этот вариант посоветовал кто-то в чате
 contents.forEach((elem) => {
     const title = elem.querySelector('.program-line__title');
 
