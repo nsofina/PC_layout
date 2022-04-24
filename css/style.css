@@ -153,6 +153,10 @@ input {
     line-height: 140%;
 }
 
+.timer__count__zero {
+    color: red;
+}
+
 .timer__text {
     font-weight: 400;
     font-size: var(--text-size-medium);
