@@ -21,7 +21,7 @@ const timer = () => {
     const updateTimer = () => {
 
         const date = new Date()
-        const dateDeadline = new Date('30 august 2022').getTime()
+        const dateDeadline = new Date('31 may 2022').getTime()
         const timeRemaining = (dateDeadline - date) / 1000
         //const timeRemaining = 0
 
